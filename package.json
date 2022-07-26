@@ -1,0 +1,25 @@
+{
+  "name": "attendance_register_assignment",
+  "version": "1.0.0",
+  "description": "Creating Attendance Register.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjayan-Ganesan/Attendance_Register_Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjayan-Ganesan/Attendance_Register_Assignment/issues"
+  },
+  "homepage": "https://github.com/Sanjayan-Ganesan/Attendance_Register_Assignment#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "json-server": "^0.17.0",
+    "react-git-info": "^2.0.1"
+  }
+}
